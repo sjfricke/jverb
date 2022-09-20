@@ -1,0 +1,246 @@
+{
+    "name" : "demo",
+    "version" : 1,
+    "cards" : [
+        {
+            "kana" : "あいます",
+            "translation" : "to meet (polite)",
+            "stem" : "会う",
+            "type" : "present affirmative polite"
+        },
+        {
+            "kana" : "あいました",
+            "translation" : "to have met (polite)",
+            "stem" : "会う",
+            "type" : "past affirmative polite"
+        },
+        {
+            "kana" : "あいません",
+            "translation" : "to not meet (polite)",
+            "stem" : "会う",
+            "type" : "present negative polite"
+        },
+        {
+            "kana" : "あいませんでした",
+            "translation" : "to have not met (polite)",
+            "stem" : "会う",
+            "type" : "past negative polite"
+        },
+        {
+            "kana" : "あいましょう",
+            "translation" : "lets met (polite)",
+            "stem" : "会う",
+            "type" : "volitional polite"
+        },
+        {
+            "kana" : "あう",
+            "translation" : "to meet",
+            "stem" : "会う",
+            "type" : "present affirmative casual"
+        },
+        {
+            "kana" : "あった",
+            "translation" : "to have met",
+            "stem" : "会う",
+            "type" : "past affirmative casual"
+        },
+        {
+            "kana" : "あわない",
+            "translation" : "to not meet",
+            "stem" : "会う",
+            "type" : "present negative casual"
+        },
+        {
+            "kana" : "あわなかった",
+            "translation" : "to have not met",
+            "stem" : "会う",
+            "type" : "past negative casual"
+        },
+        {
+            "kana" : "あおう",
+            "translation" : "lets met",
+            "stem" : "会う",
+            "type" : "volitional casual"
+        },
+        {
+            "kana" : "あえば",
+            "translation" : "if you meet",
+            "stem" : "会う",
+            "type" : "ば形"
+        },
+        {
+            "kana" : "あわなければ",
+            "translation" : "if you don't meet",
+            "stem" : "会う",
+            "type" : "なければ"
+        },
+        {
+            "kana" : "あいたい",
+            "translation" : "want to meet",
+            "stem" : "会う",
+            "type" : "たい形"
+        },
+        {
+            "kana" : "あいたくない",
+            "translation" : "don't want to meet",
+            "stem" : "会う",
+            "type" : "たくない形"
+        },
+        {
+            "kana" : "あって",
+            "translation" : "to meet and",
+            "stem" : "会う",
+            "type" : "て形"
+        },
+        {
+            "kana" : "あわないで",
+            "translation" : "to not meet and",
+            "stem" : "会う",
+            "type" : "ないで形"
+        },
+        {
+            "kana" : "あえる",
+            "translation" : "can meet",
+            "stem" : "会う",
+            "type" : "可能形"
+        },
+        {
+            "kana" : "あわれる",
+            "translation" : "meet",
+            "stem" : "会う",
+            "type" : "受身形"
+        },
+        {
+            "kana" : "あわせる",
+            "translation" : "meet",
+            "stem" : "会う",
+            "type" : "使役形"
+        },
+        {
+            "kana" : "あわされる",
+            "translation" : "meet",
+            "stem" : "会う",
+            "type" : "使役受身形"
+        },
+        {
+            "kana" : "たべます",
+            "translation" : "to eat (polite)",
+            "stem" : "食べる",
+            "type" : "present affirmative polite"
+        },
+        {
+            "kana" : "たべました",
+            "translation" : "to have ate (polite)",
+            "stem" : "食べる",
+            "type" : "past affirmative polite"
+        },
+        {
+            "kana" : "たべません",
+            "translation" : "to not eat (polite)",
+            "stem" : "食べる",
+            "type" : "present negative polite"
+        },
+        {
+            "kana" : "たべませんでした",
+            "translation" : "to have not ate (polite)",
+            "stem" : "食べる",
+            "type" : "past negative polite"
+        },
+        {
+            "kana" : "たべましょう",
+            "translation" : "lets eat (polite)",
+            "stem" : "食べる",
+            "type" : "volitional polite"
+        },
+        {
+            "kana" : "たべる",
+            "translation" : "to eat",
+            "stem" : "食べる",
+            "type" : "present affirmative casual"
+        },
+        {
+            "kana" : "たべた",
+            "translation" : "to have ate",
+            "stem" : "食べる",
+            "type" : "past affirmative casual"
+        },
+        {
+            "kana" : "たべない",
+            "translation" : "to not eat",
+            "stem" : "食べる",
+            "type" : "present negative casual"
+        },
+        {
+            "kana" : "たべなかった",
+            "translation" : "to have not ate",
+            "stem" : "食べる",
+            "type" : "past negative casual"
+        },
+        {
+            "kana" : "たべよう",
+            "translation" : "lets eat",
+            "stem" : "食べる",
+            "type" : "volitional casual"
+        },
+        {
+            "kana" : "たべれば",
+            "translation" : "if you eat",
+            "stem" : "食べる",
+            "type" : "ば形"
+        },
+        {
+            "kana" : "たべなければ",
+            "translation" : "if you don't eat",
+            "stem" : "食べる",
+            "type" : "なければ"
+        },
+        {
+            "kana" : "たべたい",
+            "translation" : "want to eat",
+            "stem" : "食べる",
+            "type" : "たい形"
+        },
+        {
+            "kana" : "たべたくない",
+            "translation" : "don't want to eat",
+            "stem" : "食べる",
+            "type" : "たくない形"
+        },
+        {
+            "kana" : "たべて",
+            "translation" : "to eat and",
+            "stem" : "食べる",
+            "type" : "て形"
+        },
+        {
+            "kana" : "たべないで",
+            "translation" : "to not eat and",
+            "stem" : "食べる",
+            "type" : "ないで形"
+        },
+        {
+            "kana" : "たべられる",
+            "translation" : "can eat",
+            "stem" : "食べる",
+            "type" : "可能形"
+        },
+        {
+            "kana" : "たべられる",
+            "translation" : "eat",
+            "stem" : "食べる",
+            "type" : "受身形"
+        },
+        {
+            "kana" : "たべさせる",
+            "translation" : "eat",
+            "stem" : "食べる",
+            "type" : "使役形"
+        },
+        {
+            "kana" : "たべさせられる",
+            "translation" : "eat",
+            "stem" : "食べる",
+            "type" : "使役受身形"
+        }
+    ]
+}

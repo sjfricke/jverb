@@ -1,0 +1,303 @@
+34|いきます|いく|行く|to go|00034.mp3
+35|きます|くる|来る|to come|00035.mp3
+84|たべます|たべる|食べる|to eat|00084.mp3
+85|のみます|のむ|飲む|to drink|00085.mp3
+86|きます|きる|着る|to wear|00086.mp3
+98|かいます|かう|買う|to buy|00098.mp3
+114|します|する||to do|00114.mp3
+145|みます|みる|見る|to see|00145.mp3
+146|ききます|きく|聞く|to hear|00146.mp3
+147|かきます|かく|書く|to write|00147.mp3
+148|よみます|よむ|読む|to read|00148.mp3
+149|はなします|はなす|話す|to talk|00149.mp3
+195|わかります|わかる|分かる|to understand|00195.mp3
+196|いいます|いう|言う|to say|00196.mp3
+197|まちます|まつ|待つ|to wait|00197.mp3
+214|たちます|たつ|立つ|to stand|00214.mp3
+215|すわります|すわる|座る|to sit down|00215.mp3
+216|つけます|つける|点ける|to turn on|00216.mp3
+217|けします|けす|消す|to turn off|00217.mp3
+218|あけます|あける|開ける|to open|00218.mp3
+219|しめます|しめる|閉める|to shut|00219.mp3
+220|みせます|みせる|見せる|to show|00220.mp3
+221|とります|とる|撮る|to take a picture|00221.mp3
+222|すいます|すう|吸う|to smoke|00222.mp3
+223|がんばります|がんばる|頑張る|to do one's best|00223.mp3
+224|よびます|よぶ|呼ぶ|to call|00224.mp3
+225|ぬぎます|ぬぐ|脱ぐ|to take off|00225.mp3
+335|います|いる|居る|to be (living beings, plants)|00335.mp3
+336|あります|ある||to be (non-living things)|00336.mp3
+482|あいます|あう|会う|to meet|00482.mp3
+483|こたえます|こたえる|答える|to answer|00483.mp3
+484|まにあいます|まにあう|間に合う|to be on time|00484.mp3
+485|ねます|ねる|寝る|to sleep|00485.mp3
+486|おきます|おきる|起きる|to wake up|00486.mp3
+555|かけます|かける|掛ける|to call; to spend; to take (time, money, etc.)|00555.mp3
+556|でかけます|でかける|出かける|to go out|00556.mp3
+557|だします|だす|出す|to take out|00557.mp3
+558|ちがいます|ちがう|違う|to differ|00558.mp3
+559|まちがえます|まちがえる|間違える|to be mistaken|00559.mp3
+560|いれます|いれる|入れる|to put in|00560.mp3
+574|ふります|ふる|降る|to fall down (i.e. rain, snow)|00574.mp3
+575|おくれます|おくれる|遅れる|to be late|00575.mp3
+576|やすみます|やすむ|休む|to be absent|00576.mp3
+590|つくります|つくる|作る|to make|00590.mp3
+591|できます|できる|出来る|to be able; can do|00591.mp3
+592|およぎます|およぐ|泳ぐ|to swim|00592.mp3
+623|かえります|かえる|帰る|to return |00623.mp3
+624|あるきます|あるく|歩く|to walk|00624.mp3
+625|のります|のる|乗る|to get on (transportation); to board|00625.mp3
+626|おります|おりる|降りる|to get off (transportation); dismount|00626.mp3
+627|かかります|かかる|掛かる|to take (time, money, etc.)|00627.mp3
+671|おきます|おく|置く|to put|00671.mp3
+672|うります|うる|売る|to sell|00672.mp3
+733|しっています（しる）|しっている（しる）|知っている（知る）|to know|00733.mp3
+736|もちます|もつ|持つ|to have|00736.mp3
+737|すみます|すむ|住む|to live|00737.mp3
+738|つとめます|つとめる|勤める|to work (for/at)|00738.mp3
+745|よります|よる|寄る|to stop by (a place)|00745.mp3
+746|えらびます|えらぶ|選ぶ|to choose|00746.mp3
+756|かします|かす|貸す|to lend|00756.mp3
+757|かります|かりる|借りる|to borrow|00757.mp3
+758|かえします|かえす|返す|to rerurn|00758.mp3
+784|いります|いる|要る|to need|00784.mp3
+826|はきます|はく|履く|to put on|00826.mp3
+876|まがります|まがる|曲がる|it turns; it bends|00876.mp3
+877|まげます|まげる|曲げる|to turn; to bend|00877.mp3
+887|とおります|とおる|通る|to pass through; to pass by|00887.mp3
+888|はしります|はしる|走る|to run|00888.mp3
+889|とびます|とぶ|飛ぶ|to fly|00889.mp3
+890|わたります|わたる|渡る|to cross; to be passed; to be crossed over|00890.mp3
+891|ながれます|ながれる|流れる|to flow|00891.mp3
+908|みえます|みえる|見える|to see (to be in sight)|00908.mp3
+909|きこえます|きこえる|聞こえる|to hear (to be heard)|00909.mp3
+910|おぼえます|おぼえる|覚える|to remember|00910.mp3
+911|わすれます|わすれる|忘れる|to forget|00911.mp3
+912|おもいだします|おもいだす|思い出す|to recall|00912.mp3
+931|おごります|おごる||to treat|00931.mp3
+932|よっぱらいます|よっぱらう|酔っぱらう|to get drunk |00932.mp3
+933|はいります|はいる|入る|to enter|00933.mp3
+934|はこびます|はこぶ|運ぶ|to carry|00934.mp3
+935|でます|でる|出る|to come out|00935.mp3
+936|はらいます|はらう|払う|to pay|00936.mp3
+946|なります|なる||to become|00946.mp3
+947|きめます|きめる|決める|to decide|00947.mp3
+948|おもいます|おもう|思う|to think|00948.mp3
+969|さきます|さく|咲く|to bloom|00969.mp3
+970|ちります|ちる|散る|to fall (i.e. leaves, flower pedals)|00970.mp3
+971|きまります|きまる|決まる|to get decided|00971.mp3
+993|すきます|すく|空く|to be empty (stomach)|00993.mp3
+994|かわきます|かわく|渇く|to be dry (throat)|00994.mp3
+995|あそびます|あそぶ|遊ぶ|to play|00995.mp3
+996|うたいます|うたう|歌う|to sing|00996.mp3
+1021|たのみます|たのむ|頼む|to ask|01021.mp3
+1022|いそぎます|いそぐ|急ぐ|to hurry|01022.mp3
+1059|ひらきます|ひらく|開く|to open|01059.mp3
+1060|とじます|とじる|閉じる|to close|01060.mp3
+1061|はじめます|はじめる|始める|to begin; commence|01061.mp3
+1062|はじまります|はじまる|始まる|to start|01062.mp3
+1063|もどります|もどる|戻る|to return|01063.mp3
+1064|くりかえします|くりかえす|繰り返す|to repeat|01064.mp3
+1065|おわります|おわる|終わる|to end|01065.mp3
+1066|おえます|おえる|終える|to finish|01066.mp3
+1067|おしえます|おしえる|教える|to teach|01067.mp3
+1068|ならいます|ならう|習う|to learn|01068.mp3
+1078|はねます|はねる||to hook|01078.mp3
+1079|とめます|とめる|止める|to stop; to park|01079.mp3
+1080|はらいます|はらう||to sweep|01080.mp3
+1081|たします|たす|足す|to add|01081.mp3
+1082|ぬいます|ぬう|縫う|to sew|01082.mp3
+1083|つきます|つく|着く|to reach (a place)|01083.mp3
+1084|きります|きる|切る|to cut|01084.mp3
+1222|やきます|やく|焼く|to burn|01222.mp3
+1223|にぎります|にぎる|握る|to grasp; shape|01223.mp3
+1224|ちらします|ちらす|散らす|to scatter|01224.mp3
+1225|ひきます|ひく|引く|to pull; to catch; to subtract; ...minus...is..|01225.mp3
+1226|おします|おす|押す|to push|01226.mp3
+1227|うえます|うえる|植える|to plant|01227.mp3
+1228|おどります|おどる|踊る|to dance|01228.mp3
+1229|あらいます|あらう|洗う|to wash|01229.mp3
+1230|いためます|いためる|炒める|to fry|01230.mp3
+1231|ふきます|ふく|拭く|to wipe; to dry|01231.mp3
+1232|すてます|すてる|捨てる|to throw away|01232.mp3
+1233|つけます|つける|漬ける|to soak|01233.mp3
+1234|まわります|まわる|回る|to be turned; to be rotated|01234.mp3
+1248|なぞります|なぞる||to trace|01248.mp3
+1300|なきます|なく|鳴く|to cry|01300.mp3
+1364|ひっこします|ひっこす|引越す|to move|01364.mp3
+1365|あきます|あく|開く|to be open; to be opened|01365.mp3
+1366|しまります|しまる|閉まる|to be closed; it closes|01366.mp3
+1367|つきます|つく|点く|to be lit; to be on (electricity, etc.)|01367.mp3
+1368|きえます|きえる|消える|to be off (electricity, etc.); to go off-Ø|01368.mp3
+10005|にあいます|にあう|似合う|to suit; to match |10005.mp3
+10006|あげます|あげる||to give|10006.mp3
+10007|さしあげます|さしあげる||to give (hon.)|10007.mp3
+10008|やります|やる||to give to (feed)|10008.mp3
+10009|もらいます|もらう||to receive|10009.mp3
+10010|いただきます|いただく||to receive (hon.)|10010.mp3
+10016|くれます|くれる||to be given; to receive|10016.mp3
+10017|くださいます|くださる||to be given; to receive (hon.)|10017.mp3
+10021|つかいます|つかう|使う|to use; to make use of|10021.mp3
+10028|おどろきます|おどろく|驚く|to be surprised; to be astonished|10028.mp3
+10037|つながります|つながる||to be connected|10037.mp3
+10038|つなぎます|つなぐ||to connect|10038.mp3
+10039|なおります|なおる||to get well; to be cured; to be healed|10039.mp3
+10040|なおします|なおす||to cure; to correct |10040.mp3
+10042|ひきます|ひく|引く|to pull; to catch; to subtract; ...minus...is..|10042.mp3
+10047|てつだいます|てつだう|手伝う|to help; to assist|10047.mp3
+10048|こまります|こまる|困る|to be troubled; to be worried|10048.mp3
+10049|おくります|おくる|送る|to give; to present|10049.mp3
+10050|しまいます|しまう||to put away|10050.mp3
+10051|つかれます|つかれる|疲れる|to become tired|10051.mp3
+10052|ねむります|ねむる|眠る|to doze off|10052.mp3
+10058|おれます|おれる|折れる|to get broken; to become fractured|10058.mp3
+10059|おります|おる|折る|to break; to fold|10059.mp3
+10060|あきます|あく|開く|to be open; to be opened|10060.mp3
+10061|しまります|しまる|閉まる|to close|10061.mp3
+10062|つきます|つく|点く|to be lit; to be on (electricity, etc.)|10062.mp3
+10063|きえます|きえる|消える|to be off (electricity, etc.); to go off-Ø|10063.mp3
+10064|かかります|かかる|掛かる|to take (time, money, etc.)|10064.mp3
+10065|かけます|かける|掛ける|to call; to spend; to take (time, money, etc.)|10065.mp3
+10068|なれます|なれる|慣れる|to adjust to|10068.mp3
+10069|のこります|のこる|残る|to remain; to be left|10069.mp3
+10070|のこします|のこす|残す|to leave; to remain|10070.mp3
+10071|はたらきます|はたらく|働く|to work; to labor|10071.mp3
+10076|にます|にる|似る|to resemble; to look like|10076.mp3
+10077|かわいがります|かわいがる|可愛がる|to love; to be affectionate|10077.mp3
+10107|おちます|おちる|落ちる|to fall down; to dropped|10107.mp3
+10108|おとします|おとす|落とす|to drop; to lose; to let fall|10108.mp3
+10109|こわれます|こわれる|壊れる|to be broken|10109.mp3
+10110|こわします|こわす|壊す|to break; to ruin|10110.mp3
+10111|われます|われる|割れる|to break; to be smashed|10111.mp3
+10112|わります|わる|割る|to break; to crack; to smash; to divide; …divided by...is…|10112.mp3
+10113|こぼれます|こぼれる||to spill; to fall out of|10113.mp3
+10114|こぼします|こぼす||to spill; to drop |10114.mp3
+10115|なくなります|なくなる||to pass away; to disappear|10115.mp3
+10116|なくします|なくす||to lose something|10116.mp3
+10126|さそいます|さそう|誘う|to invite|10126.mp3
+10138|できます|できる|出来る|to be ready; to be complete|10138.mp3
+10139|ならびます|ならぶ|並ぶ|to be lined up; to be in line|10139.mp3
+10140|ならべます|ならべる|並べる|to line up; to stand in a line|10140.mp3
+10141|やけます|やける|焼ける|to be flame grilled|10141.mp3
+10142|やきます|やく|焼く|to flame grill|10142.mp3
+10143|あがります|あがる|揚がる|to be fried |10143.mp3
+10144|あげます|あげる|揚げる|to fry|10144.mp3
+10145|にえます|にえる|煮える|to be stewed (w/flavor)|10145.mp3
+10146|にます|にる|煮る|to stew (w/flavor)|10146.mp3
+10147|わきます|わく|沸く|to be boiled (water, etc.); to boil|10147.mp3
+10148|わかします|わかす|沸かす|to boil (water, etc.)|10148.mp3
+10149|いためます|いためる|炒める|to stir fry; to cook|10149.mp3
+10150|ゆでます|ゆでる|茹でる|to boil (cook)|10150.mp3
+10151|むします|むす|蒸す|to steam|10151.mp3
+10152|たきます|たく|炊く|to boil; to steam (rice, etc.)|10152.mp3
+10164|できあがります|できあがる|出来上がる|to be ready; to be complete|10164.mp3
+10172|まもります|まもる|守る|to obey; to follow; to protect|10172.mp3
+10173|たすけます|たすける|助ける|to help; to rescue|10173.mp3
+10174|すてます|すてる|捨てる|to throw away|10174.mp3
+10175|ひろいます|ひろう|拾う|to pick up; to find|10175.mp3
+10179|つけます|つける|付ける|to attach; to wear; to aquire；to keep (a diary)|10179.mp3
+10184|あつまります|あつまる|集まる|to be gathered; to be assembled|10184.mp3
+10185|あつめます|あつめる|集める|to gather; to collect|10185.mp3
+10191|くばります|くばる|配る|to distribute|10191.mp3
+10192|とります|とる|取る|to take; to pick up|10192.mp3
+10193|あがります|あがる|上がる|to be raised; to go up|10193.mp3
+10194|あげます|あげる|上げる|to raise; to go up|10194.mp3
+10195|さがります|さがる|下がる|to be lowered; to go down|10195.mp3
+10196|さげます|さげる|下げる|to lower; to go down|10196.mp3
+10216|たします|たす|足す|to add|10216.mp3
+10219|わります|わる|割る|to break; to crack; to smash; to divide; …divided by...is…|10219.mp3
+10254|かざります|かざる|飾る|to decorate|10254.mp3
+10255|かわきます|かわく|乾く|to become dry|10255.mp3
+10256|かわかします|かわかす|乾かす|to dry |10256.mp3
+10257|あらいます|あらう|洗う|to wash|10257.mp3
+10258|ほします|ほす|干す|to air dry|10258.mp3
+10259|よごれます|よごれる|汚れる|to become dirty|10259.mp3
+10260|よごします|よごす|汚す|to dirty|10260.mp3
+10261|はきます|はく|掃く|to sweep|10261.mp3
+10262|ふきます|ふく|拭く|to wipe; to dry|10262.mp3
+10263|みがきます|みがく|磨く|to brush (teeth, etc.); to shine|10263.mp3
+10264|あびます|あびる|浴びる|to shower; to bathe|10264.mp3
+10287|ふとります|ふとる|太る|to gain weight|10287.mp3
+10288|やせます|やせる|痩せる|to lose weight|10288.mp3
+10307|かよいます|かよう|通う|to commute to and from (work, school, etc.)|10307.mp3
+10308|かぶります|かぶる||to wear on one's head|10308.mp3
+10309|まきます|まく|巻く|to wrap (scarf, burqa)|10309.mp3
+10310|しめます|しめる|締める|to tie; to fasten|10310.mp3
+10311|はめます|はめる||to put on snugly; to button|10311.mp3
+10312|はずします|はずす||to unfasten; to undo|10312.mp3
+10313|さします|さす||to open (an unbrella); to point to|10313.mp3
+10314|きがえます|きがえる|着替える|to change clothes|10314.mp3
+10315|はやします|はやす|生やす|to grow (beard, moustache, etc.)|10315.mp3
+10316|そります|そる|剃る|to shave|10316.mp3
+10330|とまります|とまる|泊まる|to stay at (hotel, friend's house, etc.)|10330.mp3
+10350|こみます|こむ|混む|to be crowded|10350.mp3
+10351|すきます|すく|空く|to be hungry; to be empty|10351.mp3
+10355|まちあわせます|まちあわせる|待ち合わせる|to arrange to meet|10355.mp3
+10382|かけなおします|かけなおす|かけ直す|to call again|10382.mp3
+10388|つづきます|つづく|続く|to continue; to go on|10388.mp3
+10389|つづけます|つづける|続ける|to continue; to keep on|10389.mp3
+10400|ほめます|ほめる|褒める|to praise|10400.mp3
+10401|おこります|おこる|怒る|to be angry|10401.mp3
+10402|しかります|しかる|叱る|to scold|10402.mp3
+10403|たたきます|たたく|叩く|to strike|10403.mp3
+10404|なぐります|なぐる|殴る|to hit|10404.mp3
+10405|けります|ける|蹴る|to kick|10405.mp3
+10406|ふみます|ふむ|踏む|to step on|10406.mp3
+10407|かみます|かむ|噛む|to bite; to chew|10407.mp3
+10408|ぬすみます|ぬすむ|盗む|to steal|10408.mp3
+10409|おこします|おこす|起こす|to wake someone|10409.mp3
+10410|わらいます|わらう|笑う|to laugh; to smile|10410.mp3
+10411|なきます|なく|泣く|to cry|10411.mp3
+10451|つたえます|つたえる|伝える|to convey (a message)|10451.mp3
+10454|さがします|さがす|探す|to look for|10454.mp3
+10455|みつかります|みつかる|見つかる|to be found |10455.mp3
+10456|みつけます|みつける|見つける|to find|10456.mp3
+10457|かわります|かわる|変わる|to be changed|10457.mp3
+10458|かえます|かえる|変える|to change|10458.mp3
+10476|はやります|はやる|流行る|to be fashionable; to come into fashion|10476.mp3
+10513|すべります|すべる|滑る|to slip|10513.mp3
+10514|ころびます|ころぶ|転ぶ|to fall down|10514.mp3
+10530|ぶつかります|ぶつかる||to collide with; to bump into|10530.mp3
+10531|ぶつけます|ぶつける||to collide with; to bump into|10531.mp3
+10544|しはらいます|しはらう|支払う|to make payment|10544.mp3
+10545|ひきだします|ひきだす|引き出す|to withdraw money|10545.mp3
+10546|すませます|すませる|済ませる|to finish; get through with|10546.mp3
+10549|はかります|はかる|計る|to measure; to weigh|10549.mp3
+10550|わたします|わたす|渡す|to pass; to cross over|10550.mp3
+10551|わたります|わたる|渡る|to cross; to be passed; to be crossed over|10551.mp3
+10560|つきます|つく|付く|to be attached; to be stuck to; to be acquired|10560.mp3
+10562|とまります|とまる|止まる|to be stopped, to be over|10562.mp3
+10563|とめます|とめる|止める|to stop; to park|10563.mp3
+10574|しんじます|しんじる|信じる|to believe in; to trust in|10574.mp3
+10581|たおれます|たおれる|倒れる|to collapse|10581.mp3
+10582|たおします|たおす|倒す|to knock down; to knock over|10582.mp3
+10583|ながれます|ながれる|流れる|to flow|10583.mp3
+10584|ながします|ながす|流す|to drain; to pour|10584.mp3
+10585|うごきます|うごく|動く|to be moved; to shake|10585.mp3
+10586|うごかします|うごかす|動かす|to move; to shake|10586.mp3
+10587|しにます|しぬ|死ぬ|to die|10587.mp3
+10588|なくなります|なくなる|亡くなる|to pass away; to die |10588.mp3
+10597|あつかいます|あつかう|扱う|to handle; to deal with|10597.mp3
+10598|ひっぱります|ひっぱる|引っ張る|to pull tight|10598.mp3
+10599|まわします|まわす|回す|to turn around; rotate|10599.mp3
+10600|つきあたります|つきあたる|突き当たる| to reach end of (street, hallway, etc.)|10600.mp3
+10609|のびます|のびる|伸びる|to grow (body height, beard, etc.)|10609.mp3
+10610|のばします|のばす|伸ばす|to grow one's (hair, nails, etc.)|10610.mp3
+10611|かくれます|かくれる|隠れる|to be hidden|10611.mp3
+10612|かくします|かくす|隠す|to hide|10612.mp3
+10616|どきます|どく||to be removed from one's way |10616.mp3
+10617|どけます|どける||to remove from one's way|10617.mp3
+10620|ふえます|ふえる|増える|to increase; to multiply|10620.mp3
+10621|ふやします|ふやす|増やす|to increase|10621.mp3
+10622|へります|へる|減る|to decrease; to diminish|10622.mp3
+10623|へらします|へらす|減らす|to reduce; to lower|10623.mp3
+10754|まわります|まわる|回る|to be turned; to be rotated|10754.mp3
+10771|やります|やる||to do|10771.mp3
+10911|のぼります|のぼる|登る|to climb|10911.mp3
+10912|もうしこみます|もうしこむ|申し込む|to apply|10912.mp3
+10913|はれます|はれる|晴れる|to become sunny|10913.mp3
+10914|ひきます|ひく|弾く|to play (i.e. a string instrument)|10914.mp3
+10915|たります|たりる|足りる|to be enough|10915.mp3
+10964|もちかえります|もちかえる|持ち帰る|to takeout|10964.mp3
+10965|まけます|まける|負ける|to be defeated|10965.mp3
+10966|かちます|かつ|勝つ|to win|10966.mp3

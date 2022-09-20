@@ -1,0 +1,52 @@
+SELECT id, long_hiragana, short_hiragana, short_kanji, english, short_voice_filename FROM 'words' WHERE card_id = 2
+SELECT * FROM 'words' WHERE vgroup != 0 LIMIT 0,30
+SELECT * FROM 'words' WHERE card_id = 2 LIMIT 0,30
+
+special
+☆できる
+
+SELECT * FROM 'inflect' WHERE word_id = 34
+
+inflect 1 is_long 1     "present affirmative polite",
+inflect 2 is_long 1     "past affirmative polite",
+inflect 3 is_long 1     "present negative polite",
+inflect 4 is_long 1     "past negative polite",
+inflect 5 is_long 1     "volitional polite",
+inflect 1 is_long 2     "present affirmative casual",
+inflect 2 is_long 2     "past affirmative casual",
+inflect 3 is_long 2     "present negative casual",
+inflect 4 is_long 2     "past negative casual",
+inflect 5 is_long 2     "volitional casual",
+inflect 6 is_long 2     "ば形",
+inflect 7 is_long 2     "なければ形",
+
+SELECT * FROM 'potential_form' WHERE word_id = 34 and is_long 2
+
+inflect 1     "present affirmative 可能形",
+inflect 2     "past affirmative 可能形",
+inflect 3     "present negative 可能形",
+inflect 4     "past negative 可能形",
+inflect 5     "if 可能形",
+inflect 6     "if not 可能形",
+
+
+SELECT * FROM 'make' WHERE word_id = 34 and is_long 2
+
+inflect 1     "make 1"
+inflect 2     "make 2"
+inflect 3     "make 3"
+inflect 4     "make 4"
+inflect 5     "make 5"
+
+SELECT * FROM 'tekei' WHERE word_id = 34
+
+inflect 2     "て形"
+inflect 3     "ないで形"
+inflect 4     "受身形"
+inflect 5     "使役形"
+inflect 6     "使役受身形"
+inflect 7     "たい形"
+inflect 8     "たくない形"
+
+SELECT * FROM 'type'  WHERE word_id = 34
+SELECT * FROM 'utiyoso'  WHERE word_id = 34
